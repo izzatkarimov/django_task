@@ -32,5 +32,8 @@ Example:
    - Response: `{"data": "Protected data"}`
 
 Example:
+
+![Screenshot 2024-02-07 at 1 47 10 PM](https://github.com/izzatkarimov/django_task/assets/108251704/8d336726-f987-4fb5-8a2d-abb2722a86d0)
+
   
 ![Screenshot 2024-02-07 at 1 26 36 PM](https://github.com/izzatkarimov/django_task/assets/108251704/849d9130-01f8-4465-b91b-48cdc4b33876)
